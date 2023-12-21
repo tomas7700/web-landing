@@ -31,7 +31,7 @@ function Pricing() {
                         'Maintenance of the web',
                       ]
                  }
-                  link='' /> 
+                  link='https://cuanto.app/webwizzardly/w/8dc889' /> 
                 < PriceCard 
                  title='Premium' 
                  desc='Double the requests. Pause or cancel anytime.'  
@@ -51,7 +51,7 @@ function Pricing() {
                         'Domain and Hosting include'
                       ]
                  } 
-                 link='' />
+                 link='https://cuanto.app/webwizzardly/w/51a173' />
             </div>
 
         </section>
