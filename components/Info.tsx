@@ -22,7 +22,7 @@ function Info() {
                 
                 <div className='flex flex-row  w-full mt-16 '>
                     <p className='font-light text-lg sm:text-xl md:text-2xl lg:text-3xl text-right self-end mt-10'>
-                        Our websites are more than just a place to sell your products or services. They're an experience that will leave your visitors laughing, learning, and wanting more. And it's all for one flat fee.
+                        Our websites are more than just a place to sell your products or services. They re an experience that will leave your visitors laughing, learning, and wanting more. And its all for one flat fee.
                     </p>
                 </div>
 

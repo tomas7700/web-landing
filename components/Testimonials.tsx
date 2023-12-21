@@ -10,7 +10,7 @@ function Testimonials() {
           See What Our Clients Are Saying
         </h2>
         <p className='font-bold text-lg sm:text-xl md:text-2xl lg:text-3xl text-center'>
-          Our clients love our all-access marketing playground. They say it's the best investment they've ever made in their business
+          Our clients love our all-access marketing playground. They say its the best investment theyve ever made in their business
         </p>
       </div>
 

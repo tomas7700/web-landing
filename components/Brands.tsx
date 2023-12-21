@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image';
 import React, { useState, useEffect } from 'react';
 
 function Brands() {
@@ -29,7 +30,7 @@ function Brands() {
       <div className="logos">
         {logos.map((logo, index) => (
           <div key={index} className="logos-slide">
-            <img src={logo} alt={`Logo ${index + 1}`} />
+            <Image src={logo} alt={`Logo ${index + 1}`} />
           </div>
         ))}
       </div>
