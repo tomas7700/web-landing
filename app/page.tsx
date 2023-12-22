@@ -1,4 +1,5 @@
 
+import Benefits from '@/components/Benefits'
 import Brands from '@/components/Brands'
 import Development from '@/components/Development'
 import Faqs from '@/components/Faqs'
@@ -10,7 +11,13 @@ import Mission from '@/components/Misssion'
 import Pricing from '@/components/Pricing'
 import Testimonials from '@/components/Testimonials'
 import Works from '@/components/Works'
+import type { Metadata } from 'next'
 
+
+export const metadata: Metadata = {
+  title: 'Web Wizzardly | digital marketing agency as a subscription',
+  description: 'Discover Web Wizzardly Basic Subscription, your go-to digital marketing agency, offering web development, marketing, and design at a fixed monthly cost',
+}
 
 export default function Home() {
   return (
@@ -20,10 +27,9 @@ export default function Home() {
       <Brands/>
       <Mission/>
       <Ideal/>
-      <Works/>
      < Info/>
      < Development/>
-     < Testimonials/>
+    < Benefits/>
      < Pricing/>
      < Faqs/>
 

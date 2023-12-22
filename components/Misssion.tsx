@@ -14,7 +14,7 @@ function Mission() {
                     Redefining Software Development
                 </h2>
                 <p className='font-bold text-lg sm:text-xl md:text-2xl lg:text-3xl  text-center'>
-                    Escape the Marketing Hamster Wheel: Unlimited Growth, 1 Flat Fee.
+                Unlimited Growth, No Hidden Fees: Our Digital Marketing Subscription
                 </p>
             </div>
 
@@ -33,7 +33,7 @@ function Mission() {
                         width={150}
                     />
                     <p className='font-light  text-lg sm:text-xl md:text-2xl lg:text-3xl text-right w-[80%]  '>
-                        We dont code, we conjure website brilliance. Our custom-built websites are designed to convert visitors into customers, and theyre backed by a team of experts who are always there to help, and deliver in less than 3 days
+                        We dont code, we conjure website brilliance. Our custom-built websites are designed to convert visitors into customers, with our team that is always  there to help, and deliver in less than 3 days
                     </p>
                 </div>
 

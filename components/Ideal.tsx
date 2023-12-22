@@ -13,7 +13,7 @@ function Ideal() {
           Find out if my service is ideal for you
         </h2>
         <p className='font-bold text-lg sm:text-xl md:text-2xl lg:text-3xl text-center'>
-          if you re tired of a website that doesn t work, and you re ready to take your business to the next level, then our all-access marketing playground is for you.
+          If you re tired of a website that doesn t work, and you re ready to take your business to the next level, then our all-access marketing playground is for you.
         </p>
       </div>
 

@@ -46,7 +46,7 @@ function Header() {
           </Avatar>
         </Link>
         <div className='flex flex-col text-[#000]  items-center justify-center '>
-          <p className='p-4 sm:p-8 text-lg sm:text-2xl font-extrabold'>Web Wizzardly<span className='text-[10px] hidden lg:flex md:flex sm:hidden '>Diseño web que genera dinero</span></p>
+          <p className='p-4 sm:p-8 text-lg sm:text-2xl font-extrabold'>Web Wizzardly<span className='text-[10px] hidden lg:flex md:flex sm:hidden '>focused on generating business</span></p>
         </div>
       </div>
 

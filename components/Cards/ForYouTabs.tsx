@@ -17,7 +17,7 @@ function ForYouTabs() {
         ' entrepreneurs and solopreneurs': [
             {
                 id: 1,
-                title: "If you are an entrepreneur ot solopreneur my service can help you because it offers a convenient, all-in-one solution without requiring them to hire multiple agencies.Probably you have lack of  time or expertise to manage website design and marketing, so I can help you with this and you can forget of all of thiss.",
+                title: "Offers a convenient, all-in-one solution without requiring them to hire multiple agencies.",
                benefits:'Unlimited brands and users cater to their expanding ventures, while the 48-hour delivery ensures quick turnaround. Lead generation and SEO strategies help their businesses grow.',
                 iconTab: <UserRound className='w-[30px] h-[30px]' />,
                 icon: <UserRound color="#00ff88" className='w-[40px] h-[40px] border-green' />,
@@ -34,7 +34,7 @@ function ForYouTabs() {
 
             {
                 id: 2,
-                title: 'I know that you  need a cost-effective website solution without compromising quality. I can help you with my affordable subscription model that suits your limited budget while delivering all the value that you search.',
+                title: 'Lower cost and effective website solution without compromising quality.A subscription model that suits your limited budget while delivering all the value that you search.',
                 benefits:'The Standard Plan is ideal for you because it provides all the essential features like SEO, lead generation, and easy payments. Pause/cancel flexibility gives them control over spending.', 
                 iconTab: <TrendingUp className='w-[30px] h-[30px]' />,
                 icon: <TrendingUp  color="#ff7300" className='w-[40px] h-[40px]' />,
@@ -49,7 +49,7 @@ function ForYouTabs() {
         'Businesses with outdated websites': [
             {
                 id: 3,
-                title: "Having an outdated  website is a big problem not only for the SEO, but also in converting leads and generating business. I can help your web perform well and focus it on the generation of business. With SEO and lead generation strategies  I can boost your  online presence.",
+                title: "Having an outdated website is a big problem not only for the SEO, but also in converting leads and generating business. With SEO and lead generation strategies you can boost your online presence.",
                 benefits:'The web maintenance ensures your  website stays fresh and functional, while inbound marketing strategies attract new customers. You would receive a website that works and generates leads.', 
                 iconTab: <BarChart3 className='w-[30px] h-[30px]' />,
                 icon: <BarChart3 color="#002aff" className='w-[40px] h-[40px]' />,
@@ -64,7 +64,7 @@ function ForYouTabs() {
         'Organizations struggling with marketing and web management': [
             {
                 id: 4,
-                title: "Lack of internal resources or marketing expertise to handle everything. My service acts as a dedicated team, taking care of your website needs.",
+                title: "Lack of internal resources or marketing expertise to handle everything. The service acts as a dedicated team, taking care of your website needs.",
                 benefits:'Having unlimited users allows for collaboration within the team. The $1000 plan s dual-application feature accommodates your increased workload. The inclusion of domain and hosting simplifies management.', 
                 iconTab: <Building  className='w-[30px] h-[30px]'  />,
                 icon: <Building color="#00ff88"  className='w-[40px] h-[40px]' />,

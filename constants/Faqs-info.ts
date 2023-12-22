@@ -28,7 +28,7 @@ export const faqs = [
     {
         name:'Time',
         title:'How long does it take to complete a development task?',
-        description:'The turnaround time for your software depends on the complexity of the task. On average, most tasks requests are completed in just 24-48hours. However, more complex tasks may take longer to finish.',
+        description:'The turnaround time for your software depends on the complexity of the task. On average, most Landing page tasks requests are completed in just 24-78hours. However, more complex tasksmay take longer to finish.',
     },
 ]
  

@@ -2,6 +2,7 @@
 import React from 'react'
 import MissionCard from './Cards/MissionCard'
 import { Link } from 'react-scroll'
+import WorkCard from './Cards/WorkCard'
 
 function Works() {
     return (
@@ -14,10 +15,10 @@ function Works() {
 
             </div>
 
-            <div className='flex flex-col mt-10 items-center justify-center'>
-
-
-
+            <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-1 sm:grid-cols-1  gap-5  w-full p-10 rounded-xl'>
+            <WorkCard desc='Lorem ipsum dolor '/>
+            <WorkCard desc='Lorem ipsum dolor '/>
+            <WorkCard desc='Lorem ipsum dolor '/>
 
             </div>
 

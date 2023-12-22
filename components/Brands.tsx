@@ -30,7 +30,7 @@ function Brands() {
       <div className="logos">
         {logos.map((logo, index) => (
           <div key={index} className="logos-slide">
-            <Image src={logo} alt={`Logo ${index + 1}`} />
+            <Image src={logo} alt={`Logo ${index + 1}`} width={50} height={50} />
           </div>
         ))}
       </div>
