@@ -24,21 +24,14 @@ export default function Home() {
     <>
       <Header />
       <Hero />
-      <Brands/>
-      <Mission/>
-      <Ideal/>
-<<<<<<< HEAD
-     < Info/>
-     < Development/>
-    < Benefits/>
-=======
-      
-     < Info/>
-     < Development/>
-     
->>>>>>> bbca27bcfb267180bed68b90e2ab0badae9b8e0a
-     < Pricing/>
-     < Faqs/>
+      <Brands />
+      <Mission />
+      <Ideal />
+      <Info />
+      <Development />
+      <Benefits />
+      <Pricing />
+      <Faqs />
 
     </>
 
