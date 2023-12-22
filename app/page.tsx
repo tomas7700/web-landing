@@ -27,9 +27,16 @@ export default function Home() {
       <Brands/>
       <Mission/>
       <Ideal/>
+<<<<<<< HEAD
      < Info/>
      < Development/>
     < Benefits/>
+=======
+      
+     < Info/>
+     < Development/>
+     
+>>>>>>> bbca27bcfb267180bed68b90e2ab0badae9b8e0a
      < Pricing/>
      < Faqs/>
 

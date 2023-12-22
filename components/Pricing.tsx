@@ -16,6 +16,7 @@ function Pricing() {
 
             <div className='mt-[90px] grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-10 border-[1px] p-5 bg-background/60 w-[95%] h-fit items-center justify-center'>
 
+<<<<<<< HEAD
                 < PriceCard
                     title='Basic Plan'
                     desc='One request at a time. Pause or cancel anytime.'
@@ -49,6 +50,46 @@ function Pricing() {
                         ]
                     }
                     link='' />
+=======
+                < PriceCard 
+                title='Standard' 
+                desc='One request at a time. Pause or cancel anytime.'
+                 price='$500' 
+                 benefits={
+                    [
+                        'One request at a time',
+                        'Average 48-hour landing page delivery',
+                        'Unlimited brands',
+                        'Unlimited users',
+                        'SEO strategy and maintenance',
+                        'Easy credit-card payments',
+                        'Pause or cancel anytime',
+                        'Lead generation strategy',
+                        'Maintenance of the web',
+                      ]
+                 }
+                  link='https://cuanto.app/webwizzardly/w/8dc889' /> 
+                < PriceCard 
+                 title='Premium' 
+                 desc='Double the requests. Pause or cancel anytime.'  
+                 price='$999' 
+                 benefits={
+                    [
+                        'Two requests at a time',
+                        'Average 48-hour landing page delivery',
+                        'Unlimited brands',
+                        'Unlimited users',
+                        'SEO strategy and maintenance',
+                        'Easy credit-card payments',
+                        'Pause or cancel anytime',
+                        'Lead generation strategy',
+                        'Inbound Marketing strategy',
+                        'Maintenance of the web',
+                        'Domain and Hosting include'
+                      ]
+                 } 
+                 link='https://cuanto.app/webwizzardly/w/51a173' />
+>>>>>>> bbca27bcfb267180bed68b90e2ab0badae9b8e0a
             </div>
 
         </section>
