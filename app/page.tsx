@@ -20,10 +20,10 @@ export default function Home() {
       <Brands/>
       <Mission/>
       <Ideal/>
-      <Works/>
+      
      < Info/>
      < Development/>
-     < Testimonials/>
+     
      < Pricing/>
      < Faqs/>
 
